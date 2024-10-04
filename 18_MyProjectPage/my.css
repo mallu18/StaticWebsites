@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.main-container {
+    background-color: white;
+}
+
+.container-text-h1 {
+    text-align: center;
+    font-size: 20px;
+    font-family: bree Serif;
+    color: #183b56;
+}
+
+.container-text-p {
+    text-align: center;
+    font-family: bree Serif;
+    color: #616e7c;
+}
+
+.img {
+    height: 100px;
+    width: 150px;
+    margin: 20px;
+}
+
+
+.at-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.at-card-container {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 300px;
+    padding: 30px;
+}
+
+.at-card-heading {
+    color: #5752ab;
+    font-family: Bree Serif;
+}
+
+.at-card-paragraph {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.at-card-button {
+    text-align: center;
+    padding: 10px;
+}
+
+.at-button1 {
+    margin: 10px;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: white;
+    color: #171f46;
+}
+
+.at-button2 {
+    margin: 10px;
+    height: 40px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: #5752ab;
+    color: white;
+    border: 0px;
+}
+
+
+
+.mp-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.mp-card {
+    background-color: #f6c56e;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 45px;
+
+}
+
+.mp-button {
+    background-color: white;
+    font-size: 12px;
+    font-weight: 500;
+    height: 40px;
+    width: 150px;
+    font-family: Roboto;
+    border-radius: 10px;
+}
+
+.mp-h1 {
+    font-family: Bree Serif;
+    color: #323f4b;
+    font-size: 30px;
+}
+
+
+.mp-paragraph {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+
+.np-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.np-card-container {
+    background-color: white;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+}
+
+.np-card-heading {
+    font-size: 20px;
+    font-family: Roboto;
+    color: #323f4b;
+}
+
+.np-paragraph {
+    color: #7b8794;
+}
+
+.np-button {
+    color: white;
+    background-color: #323f4b;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    font-family: roboto;
+}
+
+
+
+.gc-bg-container {
+    background-image: url("https://images.pexels.com/photos/9998331/pexels-photo-9998331.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    height: 50vh;
+    background-size: cover;
+}
+
+.gc-heading {
+    color: white;
+    font-family: caveat;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+.gc-bottom-section {
+    background-color: #D7E4C0;
+    background-size: cover;
+    padding: 10px;
+
+}
+
+.gc-card {
+    background-color: white;
+    width: 150px;
+    height: 120px;
+    text-align: center;
+    align-content: center;
+    border-radius: 8px;
+    margin: 20px;
+
+}
+
+.gc-card-img {
+    height: 50px;
+    width: 50px;
+    margin: 10px 0px 0px 50px;
+}
+
+.gc-card-h1 {
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.gc-p {
+    font-size: 12px;
+    font-weight: bold;
+    font-family: roboto;
+
+}
+
+.gc-container2 {
+    padding: 8px;
+}
+
+.gc-last-section {
+    margin: 10px;
+}
+
+.gc-button {
+    margin: 15px;
+    border-radius: 10px;
+    background-color: #387ADF;
+    border: 0px;
+    color: white;
+}
+
+.gc-last-section {
+    background-color: #D7E4C0;
+    margin: 0px;
+}
+
+.homePageButton {
+    border-radius: 5px;
+}

@@ -1,0 +1,134 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+
+.home-page-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-homePage {
+    background-color: white;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.card-homePage-h1 {
+    text-align: center;
+    font-size: 20px;
+    color: #f19116;
+}
+
+.card-homePage-p {
+    text-align: center;
+}
+
+.card-homePage-btn {
+    background-color: #f19116;
+    color: white;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.ListPage {
+    background-color: #222222;
+
+}
+
+.ListPage-h1 {
+    color: #f19116;
+}
+
+.card-ListPage {
+    background-color: white;
+    border-radius: 20px;
+    height: 220px;
+    margin: 20px 20px;
+}
+
+.card-ListPage-img {
+    height: 220px;
+    width: 100px;
+    border-radius: 0px;
+}
+
+.card-ListPage-text {
+    margin: 20px;
+}
+
+.card-ListPage-text-h1 {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Bree Serif;
+}
+
+.card-ListPage-text-p {
+    font-family: Bree Serif;
+}
+
+.btn {
+    margin: 20px;
+    width: 100px;
+}
+
+.BHKFlat-container {
+    background-color: #222222;
+}
+
+.BHKFlat-container-img {
+    height: 200px;
+    width: 500px;
+}
+
+.BHKFlat-container-img2 {
+    height: 200px;
+    width: 500px;
+}
+
+.BHKFlat-container-img3 {
+    height: 200px;
+    width: 500px;
+}
+
+.BHKFlat-container-location-img {
+    height: 25px;
+    width: 25px;
+    margin: 10px;
+}
+
+.BHKFlat-container-location-p {
+    color: white;
+    margin: 10px;
+}
+
+.BHKFlat-container-txt {
+    font-family: Bree Serif;
+}
+
+.BHKFlat-container-h1 {
+
+    color: #f19116;
+}
+
+.BHKFlat-container-txt {
+    padding: 20px;
+    color: white;
+}
+
+.BHKFlat-container-btn1 {
+    margin: 10px;
+    background-color: #f19116;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+
+}
+
+.BHKFlat-container-btn2 {
+    margin: 10px;
+    background-color: #f19116;
+    border: 0px;
+    border-radius: 5px;
+    color: white;
+}

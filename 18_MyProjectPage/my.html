@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="my.css"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div id="sectionMyProjectsHome">
+       <div id="homePage">
+        <div class="main-container">
+            <div class="card">
+                <img src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/software-developer-img.png" alt="" />
+            </div>
+            <div class="container-text">
+                <h1 class="container-text-h1">My Projects</h1>
+                <p class="container-text-p">These are a few of my Static Website projects that i have developed using HTML, CSS and Bootstrap</p>
+            </div>
+
+            <div class="d-flex flex-row justify-content-center">
+                <img class="img" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/advanced-technologies-img.png" onclick="display('sectionadvancedTechnology')" />
+                <img class="img" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-img.png" onclick="display('sectionganeshChathurthi')" />
+            </div>
+
+            <div class="d-flex flex-row justify-content-center">
+                <img class="img" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/food-img.png" onclick="display('sectionmealsPage')" />
+                <img class="img" src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/news-paper-img.png" onclick="display('sectionnewsPage')" />
+            </div>
+
+        </div>
+        </div>
+    </div>
+   
+   
+   
+    <div id="sectionadvancedTechnology">
+        <div class="at-bg-container d-flex flex-column justify-content-end">
+            <div class="at-card-container ">
+                <h1 class="at-card-heading">Advanced Technologies</h1>
+                <p class="at-card-paragraph">Machinery and equipment developed from the application of scientific knowledge</p>
+                <div class="at-card-button d-flex flex-row">
+                    <button class="at-button1">Learn more</button>
+                    <button class="at-button2">Save Draft</button>
+                </div>
+                <div class="d-flex flex-row justify-content-center">
+                    <button class="homePageButton btn-primary" onclick="display('sectionMyProjectsHome')">Back</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="sectionmealsPage">
+        <div class="mp-container d-flex flex-column justify-content-end">
+            <div class="mp-card">
+                <h1 class="mp-h1">Happy Meals</h1>
+                <p class="mp-paragraph">Discover the best foods over the 1,000 restaurants</p>
+                <button class="mp-button btn btn-light">Book Now</button>
+            </div>
+            <div class="d-flex flex-row justify-content-center">
+                <button class="homePageButton btn-primary" onclick="display('sectionMyProjectsHome')">Back</button>
+            </div>
+        </div>
+
+    </div>
+
+    <div id="sectionnewsPage">
+        <div class="np-bg-container d-flex flex-column justify-content-end">
+            <div class="np-card-container">
+                <p>NEWS OF THE DAY</p>
+                <h1 class="np-card-heading">iB Cricket announces world's first Virtual Reality Cricket Leage</h1>
+                <p class="np-paragraph">iB Cricket and Viu together have announced the World's first virtual reality cricket league featuring 12 international cricketers, who will be competing against each other for the iB Cricket SUper Over League title in Mumbai. Iconic cricketers like Virender Sehwag, Suresh Raina, Brendon McCullum will be competeing in league.</p>
+                <button class="np-button">
+                    Read More
+                </button>
+            </div>
+            <div class="d-flex flex-row justify-content-center">
+                <button class="homePageButton btn-primary" onclick="display('sectionMyProjectsHome')">Back</button>
+            </div>
+        </div>
+    </diV>
+
+    <div id="sectionganeshChathurthi">
+        <div class="gc-bg-container">
+            <h1 class="gc-heading">Happy Ganesh Chathurthi</h1>
+        </div>
+
+
+        <div class="gc-bottom-section d-flex flex-row justify-content-center">
+
+
+            <div class="gc-container2 d-flex flex-row justify-content-center">
+
+                <div class="gc-card ">
+                    <img class="gc-card-img d-flex flex-row justify-content-center" src="https://as1.ftcdn.net/v2/jpg/05/24/38/92/1000_F_524389246_xUPvZb5bESgy6hUxMLmDvhd9c8CTURWf.jpg" />
+                    <h1 class="gc-card-h1">Ballons</h1>
+                    <p class="gc-p">Rs 50</p>
+                </div>
+
+                <div class="gc-card">
+                    <img class="gc-card-img d-flex flex-row justify-content-center" src="https://as1.ftcdn.net/v2/jpg/05/74/52/86/1000_F_574528629_Gv9BZTSAZf24Si0YoQbcH7iAl3Zongrx.jpg" />
+                    <h1 class=" gc-card-h1">Designers</h1>
+                    <p class="gc-p">Rs 100</p>
+                </div>
+            </div>
+
+        </div>
+
+
+
+
+        <div class="gc-bottom-section d-flex flex-row justify-content-center">
+            <div class="gc-container2 d-flex flex-row justify-content-center">
+                <div class="gc-card">
+                    <img class="gc-card-img d-flex flex-row justify-content-center" src="https://www.shutterstock.com/shutterstock/photos/1125181181/display_1500/stock-vector-indian-traditional-sweet-laddu-1125181181.jpg" />
+                    <h1 class=" gc-card-h1">Laddus</h1>
+                    <p class="gc-p">Rs 200 per kg</p>
+                </div>
+
+
+                <div class="gc-card">
+                    <img class="gc-card-img d-flex flex-row justify-content-center" src="https://as2.ftcdn.net/v2/jpg/00/58/64/91/1000_F_58649187_Pmvns719AOzSnwq4Kc69HkHxFY64yo9E.jpg" />
+                    <h1 class="gc-card-h1">Fruits</h1>
+                    <p class="gc-p">Rs 150 per kg</p>
+                </div>
+            </div>
+        </div>
+        <div class="gc-last-section d-flex flex-row justify-content-center">
+            <button class="gc-button btn btn-primary">See More</button>
+        </div>
+
+        <div class="d-flex flex-row justify-content-center">
+            <button class="homePageButton btn-primary" onclick="display('sectionMyProjectsHome')">Back</button>
+        </div>
+    </div>
+
+
+    <script type="text/javascript" src="https://new-assets.ccbp.in/frontend/content/static-ccbp-ui-kit/static-ccbp-ui-kit.js"></script>
+</body>
+
+</html>

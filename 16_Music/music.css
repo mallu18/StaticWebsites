@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-container {
+    background-image: url("https://new-assets.ccbp.in/frontend/static-website/moon-stars-bg.png");
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
+    padding: 50px 10px;
+}
+
+.card-text-h1 {
+    font-size: 30px;
+    font-family: Bree Serif;
+    color: white;
+}
+
+.card-text-p {
+    font-family: Bree Serif;
+    color: white;
+}
+
+.card-home {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/moon-bg.png");
+    height: 180px;
+    background-size: cover;
+    margin: 0px 20px;
+    border-radius: 20px;
+}
+
+.card-img-h1 {
+    font-family: Bree Serif;
+    font-size: 35px;
+    text-align: center;
+    color: #ffe7bf;
+}
+
+.bg-container-p {
+    color: white;
+    font-family: Bree Serif;
+    margin: 0px 20px;
+}
+
+.bg-container-button {
+    width: 120px;
+    background-color: #8e97fd;
+    border-radius: 50px;
+    color: white;
+    font-weight: bold;
+    border: 0px;
+    margin: 20px;
+}
+
+.card {
+    background-color: #03174c;
+}
+
+.text-container {
+    padding: 20px;
+    font-family: Bree Serif;
+}
+
+.text-container-h1 {
+    color: white;
+}
+
+.text-container-p {
+    color: #98a1bd;
+}
+
+.text-container-h1-related {
+    color: white;
+    font-size: 20px;
+}
+
+/* .container {} */
+
+.container-img {
+    height: 100px;
+    width: 140px;
+}
+
+.container-h1 {
+    color: white;
+    font-size: 20px;
+
+}
+
+.container-p {
+    color: #98a1bd;
+}
+
+.conatiner-combainer {
+    margin: 20px;
+}

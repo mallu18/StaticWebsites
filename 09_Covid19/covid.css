@@ -1,0 +1,135 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container {
+    background-color: white;
+    padding: 15px;
+}
+
+.main-text {
+    color: #323f4b;
+    font-size: 30px;
+}
+
+.main-text-p {
+    font-size: 18px;
+    padding: 15px;
+    font-weight: 500;
+}
+
+.img1 {
+    height: 100px;
+    margin: 10px;
+    width: 120;
+}
+
+.btn {
+    margin: 10px;
+}
+
+.card-blue {
+    background-color: #0967d219;
+    height: 150px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.card-blue-text {
+    padding: 10px;
+}
+
+.card-blue-text-heading {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.card-blue-text-para {
+    font-size: 15px;
+}
+
+.card-img {
+    height: 80px;
+    width: 80px;
+    margin: 20px;
+}
+
+.symptoms-heading {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.card-white {
+    padding: 15px;
+    background-color: white;
+
+}
+
+.card-white-green {
+    background-color: #3ebd93;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.card-white-pink {
+    background-color: #e668a7;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.card-white-purple {
+    background-color: #a368fc;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+
+.card-pink {
+    background-color: #e12d3919;
+    height: 200px;
+    margin: 10px;
+    border-radius: 20px;
+}
+
+.card-pink-img {
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+
+.card-pink-text {
+    font-size:30px;
+}
+
+.card-pink-text-h1 {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px;
+}
+
+.card-pink-text-p {
+    font-size: 15px;
+    margin: 15px;
+}
+
+.card-pink-button {
+    height: 60px;
+    width: 120px;
+    border-radius: 10px;
+    margin: 15px;
+    font-size: 15px;
+}

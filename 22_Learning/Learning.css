@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container {
+    background-color: #225db0;
+    padding: 20px;
+}
+
+.main-container-text-h1 {
+    color: white;
+}
+
+.main-container-text-p {
+    color: white;
+}
+
+.card {
+    height: 100px;
+    width: 150px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.combine {
+    height: 200px;
+    width: 150px;
+    padding: 10px;
+}
+
+
+
+.card-text-h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.card-text-img {
+    height: 50px;
+    width: 50px;
+}
+
+.technology {
+    padding: 10px;
+}
+
+.technology-page {
+    background-color: #225db0;
+    padding: 10px;
+}
+
+.technology-h1 {
+    color: white;
+}
+
+.technology-ul {
+    color: white;
+}
+
+.technology-btn {
+    background-color: #225db0;
+    border-style: solid;
+    border-color: white;
+    color: white;
+}
+
+.technology-h1 {
+    font-size: 30px;
+}

@@ -1,0 +1,155 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #1b1b1b;
+    font-family: Bree Serif;
+    padding: 10px;
+}
+
+.bg-container-h1 {
+    color: white;
+    text-align: center;
+}
+
+.card-detailsContainer {
+    background-color: #e6f6ff;
+    border: 0px;
+
+}
+
+.card-detailsContainer-text {
+    padding: 10px;
+}
+
+.card-detailsContainer-img {
+    height: 200px;
+    margin: 0px;
+    border: 0px;
+}
+
+.card-detailsContainer-text-h1 {
+    font-size: 20px;
+    color: #9aa5b1;
+
+}
+
+.recommended-conatiner {
+    text-align: center;
+}
+
+.card-detailsContainer-text-p1 {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.card-detailsContainer-text-p2 {
+    color: #183b56;
+
+}
+
+.card-detailsContainer-text-btn {
+    border-radius: 5px;
+    border: 0px;
+    height: 40px;
+    text-align: center;
+}
+
+.card {
+    margin-bottom: 10px;
+}
+
+.recommended-h1 {
+    color: white;
+    font-size: 20px;
+}
+
+
+
+
+.card2 {
+    background-color: #1b1b1b;
+}
+
+.card-detailsContainer2 {
+    background-color: #1b1b1b;
+
+}
+
+.card-detailsContainer2-text {
+    padding: 10px;
+}
+
+.card-detailsContainer2-img {
+    height: 200px;
+    width: 120px;
+    margin: 10px;
+    border: 0px;
+}
+
+.card-detailsContainer2-text-h1 {
+    font-size: 20px;
+    color: #fff;
+
+}
+
+.card-detailsContainer2-text-p1 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.card-detailsContainer2-text-p2 {
+    color: #fff;
+    font-size: 15px;
+
+}
+
+.card-detailsContainer2-text-btn {
+    border-radius: 5px;
+    border: 0px;
+    height: 40px;
+}
+
+
+.container {
+    background-color: #1b1b1b;
+}
+
+.detailsPage-container-img {
+    height: 280px;
+    width: 180px;
+    text-align: center;
+    margin: 20px 20px 20px 100px;
+}
+
+.h1 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: bree Serif;
+}
+
+.p {
+    text-align: center;
+    color: #9aa5b1;
+    font-family: bree Serif;
+}
+
+.container-p-des {
+    color: white;
+    font-family: bree serif;
+}
+
+.container-btn1 {
+    height: 40px;
+    width: 70px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.container-btn2 {
+    height: 40px;
+    width: 130px;
+    border-radius: 10px;
+    margin: 5px;
+}

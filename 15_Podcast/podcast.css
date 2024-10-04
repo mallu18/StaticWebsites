@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    height: 250px;
+    background-size: cover;
+}
+
+.card-h1 {
+
+    margin: 30px;
+    color: white;
+}
+
+.container1 {
+    padding: 20px;
+}
+
+.container1-img {
+    height: 100px;
+    width: 130px;
+
+}
+
+.container-content1 {
+    margin: 20px;
+}
+
+.container-content2 {
+    margin: 20px;
+}
+
+.container-content3 {
+    margin: 20px;
+}
+
+.container-content4 {
+    margin: 20px;
+}
+
+.container1-h1 {
+    font-size: 15px;
+    margin: 10px;
+    text-align: center;
+}
+
+.container1-p {
+    margin-left: 20px;
+
+}
+
+.card2 {
+    background-color: #151765;
+    padding: 20px;
+}
+
+.card2-img {
+    height: 150px;
+    width: 200px;
+    padding: 10px;
+}
+
+.card2-text {
+    padding: 5px;
+}
+
+.card2-text-h1 {
+    color: white;
+    font-size: 20px;
+}
+
+.card2-text-p {
+    color: white;
+    padding: 0;
+}
+
+.card2-container-combain {
+    padding: 10px;
+}
+
+.card2-container-text {
+    padding: 5px;
+}
+
+.card2-container-text-h1 {
+    font-size: 15px;
+    font-weight: bold;
+    ;
+}
+
+.card2-container-text-p {
+    padding: 0px;
+}
+
+.card2-container-button-btn {
+    background-color: #151765;
+    color: white;
+    border-radius: 50px;
+    width: 100px;
+    margin: 20px;
+}
